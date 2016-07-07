@@ -1,22 +1,21 @@
 
 /.idea
-*.iml
 .DS_Store
 /build
 /captures
 
 /images
 /gradle
-*.properties
+
 *.pro
 */build
 
-
-
-
 */bin
+
 */gen
+
 */.setting
+
 */.gradle
 
 .DS_Store
@@ -25,26 +24,30 @@ build/
 
 
 .gradle/
+
 gradlew
+
 gradlew.bat
+
 .idea/
 
 
 lint.xml
+
 .classpath
+
 bin/
+
 gen/
+
 obj/
+
 output/
+
 .settings/
 
-
-# Java class files
 *.class
 
-# generated files
-
-# Local configuration file (sdk path, etc)
 
 */build
 
